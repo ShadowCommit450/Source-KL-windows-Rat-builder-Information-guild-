@@ -1,19 +1,18 @@
-Source-KL-windows-Rat-builder-Information-guild-
+# Source-KL-windows-Rat-builder-Information-guild-
 
-# ███████╗ ██████╗  ██████╗  ██████╗  ██╗  ██╗  
-# ██╔════╝██╔═══██╗██╔════╝ ██╔═══██╗ ██║ ██╔╝  
-# ███████╗██║   ██║██║  ███╗██║   ██║ █████╔╝   
-# ╚════██║██║   ██║██║   ██║██║   ██║ ██╔═██╗   
-# ███████║╚██████╔╝╚██████╔╝╚██████╔╝ ██║  ██╗  
-# ╚══════╝ ╚═════╝  ╚═════╝  ╚═════╝  ╚═╝  ╚═╝  
+### ███████╗ ██████╗  ██████╗  ██████╗  ██╗  ██╗  
+### ██╔════╝██╔═══██╗██╔════╝ ██╔═══██╗ ██║ ██╔╝  
+### ███████╗██║   ██║██║  ███╗██║   ██║ █████╔╝   
+### ╚════██║██║   ██║██║   ██║██║   ██║ ██╔═██╗   
+### ███████║╚██████╔╝╚██████╔╝╚██████╔╝ ██║  ██╗  
+### ╚══════╝ ╚═════╝  ╚═════╝  ╚═════╝  ╚═╝  ╚═╝  
 
 # Source-KL-Windows-RAT-Builder
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project-Type%20Analysis-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Platform-Windows-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-Malware%20Research-red?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/username/repo?style=for-the-badge">
+
 </p>
 
 # 🌐 Official Links
@@ -24,11 +23,8 @@ https://www.youtube.com/
 ### 🌍 Official Website
 https://share.google/dbiOHyNUlwPPQQHIq
 
-### 📦 Releases
-https://github.com/username/repository/releases
-
 ### 📖 Documentation
-https://github.com/username/repository/wiki
+https://github.com/ShadowCommit450/Source-KL-windows-Rat-builder-Information-guild-.git
 
 ---
 
@@ -71,13 +67,7 @@ Modern RAT builders may include:
 | Windows 10 | ✅ |
 | Windows 11 | ✅ |
 | Windows Server | ✅ |
-
----
-
-# 📸 Preview
-
-<p align="center">
-  <img src="https://via.placeholder.com/900x400.png?text=Source-KL+Dashboard">
+ src=
 </p>
 
 ---
