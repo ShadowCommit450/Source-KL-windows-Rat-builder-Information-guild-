@@ -72,14 +72,6 @@ Modern RAT builders may include:
 
 ---
 
-# ⚡ Installation
-
-git clone https://github.com/username/repository.git
-cd repository
-python main.py
-
----
-
 # 🔍 SEO Keywords
 
 Windows manager, remote administration platform, Windows client dashboard, system management software, Windows deployment manager, desktop management tool, remote monitoring software, Windows utility platform, task automation dashboard, Windows administration interface
