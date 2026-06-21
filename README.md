@@ -86,7 +86,7 @@ This project is a demonstration on how it work.
 
 # 🤝 Community & Support
 
-💬 Community Chat:https://t.me/PTX_Dev
+💬 Community Chat:https://t.me/PTXDevx
 📧 Email: devptx23@gmail.com
 
 How to Reach Me
